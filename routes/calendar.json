@@ -1,0 +1,229 @@
+{
+      "VEVENT": [
+        {
+          "DTEND": "2015-03-04T12:30:00",
+          "UID": "cwc-2015-25",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Pakistan v United Arab Emirates - ICC CWC 2015",
+          "LOCATION": "McLean Park, Napier",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-04T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-04T18:00:00",
+          "UID": "cwc-2015-26",
+          "DTSTAMP": "dddd-dd-dd[T]dd:dd:ddZ",
+          "SUMMARY": "Australia v Afghanistan - ICC CWC 2015",
+          "LOCATION": "WACA, Perth",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-04T12:00:00"
+        },
+        {
+          "DTEND": "2015-03-05[T]09:30:00",
+          "UID": "cwc-2015-27",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Bangladesh v Scotland - ICC CWC 2015",
+          "LOCATION": "Saxton Oval, Nelson",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-05T03:30:00"
+        },
+        {
+          "DTEND": "2015-03-06T18:00:00",
+          "UID": "cwc-2015-28",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "India v West Indies - ICC CWC 2015",
+          "LOCATION": "WACA, Perth",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-06T12:00:00"
+        },
+        {
+          "DTEND": "2015-03-07T12:30:00",
+          "UID": "cwc-2015-29",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "South Africa v Pakistan - ICC CWC 2015",
+          "LOCATION": "Eden Park, Auckland",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-07T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-07T15:00:00",
+          "UID": "cwc-2015-30",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Zimbabwe v Ireland - ICC CWC 2015",
+          "LOCATION": "Bellerive Oval, Hobart",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-07T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-08T09:30:00",
+          "UID": "cwc-2015-31",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "New Zealand v Afghanistan - ICC CWC 2015",
+          "LOCATION": "McLean Park, Napier",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-08T03:30:00"
+        },
+        {
+          "DTEND": "2015-03-08T15:00:00",
+          "UID": "cwc-2015-32",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Australia v Sri Lanka - ICC CWC 2015",
+          "LOCATION": "SCG, Sydney",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-08T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-09T15:00:00",
+          "UID": "cwc-2015-33",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "England v Bangladesh - ICC CWC 2015",
+          "LOCATION": "Adelaide Oval, Adelaide",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-09T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-10T12:30:00",
+          "UID": "cwc-2015-34",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "India v Ireland - ICC CWC 2015",
+          "LOCATION": "Seddon Park, Hamilton",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-10T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-11T15:00:00",
+          "UID": "cwc-2015-35",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Sri Lanka v Scotland - ICC CWC 2015",
+          "LOCATION": "Bellerive Oval, Hobart",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-11T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-12T12:30:00",
+          "UID": "cwc-2015-36",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "South Africa v United Arab Emirates - ICC CWC 2015",
+          "LOCATION": "Wellington Regional Stadium, Wellington",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-12T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-13T12:30:00",
+          "UID": "cwc-2015-37",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Bangladesh v New Zealand - ICC CWC 2015",
+          "LOCATION": "Seddon Park, Hamilton",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-13T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-13T15:00:00",
+          "UID": "cwc-2015-38",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "England v Afghanistan - ICC CWC 2015",
+          "LOCATION": "SCG, Sydney",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-13T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-14T12:30:00",
+          "UID": "cwc-2015-39",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "India v Zimbabwe - ICC CWC 2015",
+          "LOCATION": "Eden Park, Auckland",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-14T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-14T15:00:00",
+          "UID": "cwc-2015-40",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Australia v Scotland - ICC CWC 2015",
+          "LOCATION": "Bellerive Oval, Hobart",
+          "DESCRIPTION": "ICC CWC 2015, Pool A",
+          "DTSTART": "2015-03-14T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-15T09:30:00",
+          "UID": "cwc-2015-41",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "West Indies v United Arab Emirates - ICC CWC 2015",
+          "LOCATION": "McLean Park, Napier",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-15T03:30:00"
+        },
+        {
+          "DTEND": "2015-03-15T15:00:00",
+          "UID": "cwc-2015-42",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "Pakistan v Ireland - ICC CWC 2015",
+          "LOCATION": "Adelaide Oval, Adelaide",
+          "DESCRIPTION": "ICC CWC 2015, Pool B",
+          "DTSTART": "2015-03-15T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-18T15:00:00",
+          "UID": "cwc-2015-43",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "SCG, Sydney",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-18T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-19T15:00:00",
+          "UID": "cwc-2015-44",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "MCG, Melbourne",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-19T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-20T15:00:00",
+          "UID": "cwc-2015-45",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "Adelaide Oval, Adelaide",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-20T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-21T12:30:00",
+          "UID": "cwc-2015-46",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "Wellington Regional Stadium, Wellington",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-21T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-24T12:30:00",
+          "UID": "cwc-2015-47",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "Eden Park, Auckland",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-24T06:30:00"
+        },
+        {
+          "DTEND": "2015-03-26T15:00:00",
+          "UID": "cwc-2015-48",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "SCG, Sydney",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-26T09:00:00"
+        },
+        {
+          "DTEND": "2015-03-29T15:00:00",
+          "UID": "cwc-2015-49",
+          "DTSTAMP": "2012-03-15T17:00:00Z",
+          "SUMMARY": "TBD v TBD - ICC CWC 2015",
+          "LOCATION": "MCG, Melbourne",
+          "DESCRIPTION": "ICC CWC 2015, Knockouts",
+          "DTSTART": "2015-03-29T09:00:00"
+        }
+      ]
+}
